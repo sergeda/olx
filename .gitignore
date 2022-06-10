@@ -1,0 +1,6 @@
+/project/target/
+/target/
+.java-version
+.bsp
+.idea
+/project/project/target/config-classes/
